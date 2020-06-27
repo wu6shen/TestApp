@@ -1,3 +1,3 @@
 # Rephoto Android app
 
-<img src="img/Begin.png" width="280"/> <img src="Compare.png" width="280"/>
+<img src="img/TakeRef.jpg" width="560"/> <img src="img/Begin.png" width="560"/>
