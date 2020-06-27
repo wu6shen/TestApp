@@ -27,7 +27,7 @@ If you want to use our App in your research, please cite:
 ### Install
 
 * Install App on your phone.
-* Add Storage & Camera permissions for this App. (Need manual setting in Setting) 
+* Add Storage & Camera permissions for this App. (Need manual setting in Setting).
 
 ### Instructions
 
@@ -38,28 +38,26 @@ If you want to use our App in your research, please cite:
 
 <img src="img/Navigation.jpg" width="840"/> 
 
-#### Set reference image. (Load or Take photo)
-In this stage, you can load a history image as the reference image or take a new photo as the reference image. (The current version only supports 1080p image.)
+#### Stage 1: Set reference image. (Load or Take photo)
+In this stage, you can load a history image as the reference image or take a new photo as the reference image. (The current version only supports 1080p images and the images with same aspect ratio, i.e. `w:h=16:9`.)
 
 <img src="img/TakeRef.jpg" width="560"/> 
 
-#### Start Rephoto.
-
+#### Stage 2: Start Rephoto.
+If you are satisfied with the current reference image, you push the center button and begin rephotography. If not, you can choose or take another image. 
 <img src="img/Begin.jpg" width="560"/> 
 
-#### Rephoto (Move and Rotate).
-
-You need move the phone to achieve the **goal**. Suggestion: rotate first.
+#### Stage 3: Rephoto (Move and Rotate).
+You need move the phone with navigation to achieve the **goal**. Suggestion: rotate first.
 
 <img src="img/Relocaling.jpg" width="560"/> 
 
-#### Finish Rephoto.
-End of rephotography and decide whether you are satisfied with this result.
+#### Stage 4: Finish Rephoto.
+End of rephotography and decide whether you are satisfied with this result (You can judge the result according to the final navigation). 
 
 <img src="img/Finish.jpg" width="560"/> 
 
-#### Compare with reference image.
-
-If you want to **save** your image, don't forget push the save button. You can compare the rephotography result and reference image in this stage.
+#### Stage 5: Compare and save.
+You can compare the rephotography result and reference image in this stage. If you want to **save** your image, don't forget push the save button. The result image will save in `/storage/rephoto`.  
 
 <img src="img/Compare.jpg" width="560"/> 
