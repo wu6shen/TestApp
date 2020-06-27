@@ -45,6 +45,7 @@ In this stage, you can load a history image as the reference image or take a new
 
 #### Stage 2: Start Rephoto.
 If you are satisfied with the current reference image, you push the center button and begin rephotography. If not, you can choose or take another image. 
+
 <img src="img/Begin.jpg" width="560"/> 
 
 #### Stage 3: Rephoto (Move and Rotate).
