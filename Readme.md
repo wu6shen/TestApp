@@ -31,7 +31,7 @@ If you want to use our App in your research, please cite:
 
 ### Instructions
 
-* First, you need learn how to adjust phone pose (translation and rotation) by navigation. In this process of rephotography, our goal is:
+* First, you need learn how to adjust phone pose (translation and rotation) by navigation. In this process of rephotography, our **goal** is:
   * Make coincidence with red rectangle and blue rectangle (position and Yaw Axis). 
   * Pointer to zero of disc (Roll Axis).
   * Red baseline aligned with blue dot (Pitch Axis).
@@ -39,6 +39,7 @@ If you want to use our App in your research, please cite:
 <img src="img/Navigation.jpg" width="840"/> 
 
 #### Set reference image. (Load or Take photo)
+In this stage, you can load a history image as the reference image or take a new photo as the reference image. (The current version only supports 1080p image.)
 
 <img src="img/TakeRef.jpg" width="560"/> 
 
@@ -48,16 +49,17 @@ If you want to use our App in your research, please cite:
 
 #### Rephoto (Move and Rotate).
 
-Suggestion: rotate first.
+You need move the phone to achieve the **goal**. Suggestion: rotate first.
 
 <img src="img/Relocal.jpg" width="560"/> 
 
 #### Finish Rephoto.
-
 End of rephotography and decide whether you are satisfied with this result.
 
 <img src="img/Finish.jpg" width="560"/> 
 
 #### Compare with reference image.
+
+If you want to **save** your image, don't forget push the save button. You can compare the rephotography result and reference image in this stage.
 
 <img src="img/Compare.jpg" width="560"/> 
