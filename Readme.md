@@ -51,7 +51,7 @@ In this stage, you can load a history image as the reference image or take a new
 
 You need move the phone to achieve the **goal**. Suggestion: rotate first.
 
-<img src="img/Relocal.jpg" width="560"/> 
+<img src="img/Relocaling.jpg" width="560"/> 
 
 #### Finish Rephoto.
 End of rephotography and decide whether you are satisfied with this result.
