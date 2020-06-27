@@ -32,32 +32,32 @@ If you want to use our App in your research, please cite:
 ### Instructions
 
 * First, you need learn how to adjust phone pose (translation and rotation) by navigation. In this process of rephotography, our goal is:
-		* Make coincidence with red rectangle and blue rectangle (position and Yaw Axis).  
-		* Pointer to zero of disc (Roll Axis).
-		* Red baseline aligned with blue dot (Pitch Axis).
+  * Make coincidence with red rectangle and blue rectangle (position and Yaw Axis). 
+  * Pointer to zero of disc (Roll Axis).
+  * Red baseline aligned with blue dot (Pitch Axis).
 
 <img src="img/Navigation.jpg" width="840"/> 
 
-* Set reference image. (Load or Take photo)
+#### Set reference image. (Load or Take photo)
 
 <img src="img/TakeRef.jpg" width="560"/> 
 
-* Start Rephoto.
+#### Start Rephoto.
 
 <img src="img/Begin.jpg" width="560"/> 
 
-* Rephoto (Move and Rotate).
+#### Rephoto (Move and Rotate).
 
 Suggestion: rotate first.
 
 <img src="img/Relocal.jpg" width="560"/> 
 
-* Finish Rephoto.
+#### Finish Rephoto.
 
 End of rephotography and decide whether you are satisfied with this result.
 
 <img src="img/Finish.jpg" width="560"/> 
 
-* Compare with reference image.
+#### Compare with reference image.
 
 <img src="img/Compare.jpg" width="560"/> 
